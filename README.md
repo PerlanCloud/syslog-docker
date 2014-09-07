@@ -1,4 +1,4 @@
-syslog-docker
-=============
+# perlan/syslog
 
-Docker Image for rsyslog
+Docker image for rsyslog
+
